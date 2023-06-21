@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*moved hero to below A for semantic purposes*/
 .hero {
     height: 800px;
     width: 100%;
